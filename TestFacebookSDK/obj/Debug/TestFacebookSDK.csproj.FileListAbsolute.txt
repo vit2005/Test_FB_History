@@ -1,0 +1,17 @@
+c:\users\vit\documents\visual studio 2013\Projects\TestFacebookSDK\TestFacebookSDK\bin\Debug\TestFacebookSDK.exe.config
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\TestFacebookSDK\TestFacebookSDK\bin\Debug\TestFacebookSDK.exe
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\TestFacebookSDK\TestFacebookSDK\bin\Debug\TestFacebookSDK.pdb
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\TestFacebookSDK\TestFacebookSDK\bin\Debug\Facebook.dll
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\TestFacebookSDK\TestFacebookSDK\bin\Debug\Facebook.xml
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\TestFacebookSDK\TestFacebookSDK\obj\Debug\TestFacebookSDK.csprojResolveAssemblyReference.cache
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\TestFacebookSDK\TestFacebookSDK\obj\Debug\MainWindow.baml
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\TestFacebookSDK\TestFacebookSDK\obj\Debug\MainWindow.g.cs
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\TestFacebookSDK\TestFacebookSDK\obj\Debug\App.g.cs
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\TestFacebookSDK\TestFacebookSDK\obj\Debug\TestFacebookSDK_MarkupCompile.cache
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\TestFacebookSDK\TestFacebookSDK\obj\Debug\TestFacebookSDK.g.resources
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\TestFacebookSDK\TestFacebookSDK\obj\Debug\TestFacebookSDK.Properties.Resources.resources
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\TestFacebookSDK\TestFacebookSDK\obj\Debug\TestFacebookSDK.csproj.GenerateResource.Cache
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\TestFacebookSDK\TestFacebookSDK\obj\Debug\TestFacebookSDK.exe
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\TestFacebookSDK\TestFacebookSDK\obj\Debug\TestFacebookSDK.pdb
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\TestFacebookSDK\TestFacebookSDK\obj\Debug\SettingsWindow.baml
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\TestFacebookSDK\TestFacebookSDK\obj\Debug\SettingsWindow.g.cs
