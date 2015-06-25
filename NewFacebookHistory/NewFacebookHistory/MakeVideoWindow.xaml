@@ -1,0 +1,26 @@
+﻿<Window x:Class="NewFacebookHistory.MakeVideoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MakeVideoWindow" Height="135" Width="304">
+    <Grid>
+        <Grid Name="advanture_settings" Visibility="Collapsed">
+            <DatePicker x:Name="DateFrom" HorizontalAlignment="Left" Margin="41,92,0,0" VerticalAlignment="Top"/>
+            <DatePicker x:Name="DateDue" HorizontalAlignment="Left" Margin="175,93,0,0" VerticalAlignment="Top"/>
+            <Label Content="с" HorizontalAlignment="Left" Margin="15,91,0,0" VerticalAlignment="Top" Width="21"/>
+            <Label Content="по" HorizontalAlignment="Left" Margin="146,91,0,0" VerticalAlignment="Top"/>
+            <Label Content="минут" HorizontalAlignment="Left" Margin="136,121,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="minutes_textbox" HorizontalAlignment="Left" Height="23" Margin="99,123,0,0" TextWrapping="Wrap" Text="5" VerticalAlignment="Top" Width="32"/>
+            <Label Content="секунд" HorizontalAlignment="Left" Margin="233,121,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="seconds_textbox" HorizontalAlignment="Left" Height="23" Margin="196,123,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="32"/>
+            <TextBox x:Name="audio_textbox" HorizontalAlignment="Left" Height="23" Margin="62,157,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="188"/>
+            <Button Content="..." HorizontalAlignment="Left" Margin="255,157,0,0" VerticalAlignment="Top" Width="20" Click="Button_Click_2"/>
+            <Label Content="аудио" HorizontalAlignment="Left" Margin="15,155,0,0" VerticalAlignment="Top"/>
+            <Label Content="длительность" HorizontalAlignment="Left" Margin="15,121,0,0" VerticalAlignment="Top"/>
+        </Grid>
+        <Button x:Name="Start_button" Content="СТАРТ" HorizontalAlignment="Left" Margin="111,10,0,0" VerticalAlignment="Top" Width="75" Click="Start_button_Click"/>
+        <ProgressBar x:Name="ProgressBar" HorizontalAlignment="Left" Height="28" Margin="15,37,0,0" VerticalAlignment="Top" Width="260"/>
+        <CheckBox Content="Расширенные настройки" HorizontalAlignment="Left" Margin="15,71,0,0" VerticalAlignment="Top" Click="CheckBox_Click" />
+
+
+    </Grid>
+</Window>
